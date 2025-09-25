@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>🔥 Los PRODUCTOS Más Vendidos de 2024 — Ropa</title>
+  <meta name="description" content="Mejores prendas 2024: chaquetas, zapatillas, jeans y más. Comparativas y ofertas en Amazon.">
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="../index.html">MiTiendaNicho</a>
+      <form class="search-form" role="search">
+        <input type="search" placeholder="Buscar prenda, marca..." aria-label="Buscar">
+        <button type="submit">🔍</button>
+      </form>
+      <nav class="main-nav">
+        <ul>
+          <li><a href="ordenadores.html">Ordenadores</a></li>
+          <li><a href="ropa.html" aria-current="page">Ropa</a></li>
+          <li><a href="sartenes.html">Sartenes</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>🔥 Los PRODUCTOS Más Vendidos de 2024 — Ropa</h1>
+      <p class="sub">Encuentra prendas con la mejor relación calidad/precio.</p>
+      <div class="hero-cta">
+        <a href="#products" class="btn">Ver Ropa</a>
+        <a href="#newsletter" class="btn ghost">Recibir ofertas</a>
+      </div>
+    </div>
+  </section>
+
+  <main class="container">
+    <section id="products" class="grid">
+      <!-- 1 Chaquetas impermeables -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Chaqueta+Impermeable" alt="Chaqueta impermeable"></div>
+        <div class="card-body">
+          <h2 class="product-title">Chaqueta Impermeable Ultra</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.6</span></div><div class="price">$129</div></div>
+          <ul class="features"><li>100% impermeable</li><li>Forro térmico</li><li>Corte ajustable</li></ul>
+          <!-- INSERTAR ENLACE AFILIADO ROPA 1 -->
+          <a class="buy-button" href="https://amzn.to/48xXued" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/48xXued">🛒 Ver Oferta en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 2 Zapatillas running -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Zapatillas+Running" alt="Zapatillas running"></div>
+        <div class="card-body">
+          <h2 class="product-title">Zapatillas Running Pro</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.5</span></div><div class="price">$89</div></div>
+          <ul class="features"><li>Amortiguación reactiva</li><li>Mesh transpirable</li><li>Suela duradera</li></ul>
+          <!-- INSERTAR ENLACE AFILIADO ROPA 2 -->
+          <a class="buy-button" href="https://amzn.to/4nnphmn" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/4nnphmn">🛒 Ver Oferta en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 3 Jeans premium -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Jeans+Premium" alt="Jeans premium"></div>
+        <div class="card-body">
+          <h2 class="product-title">Jeans Premium Stretch</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.4</span></div><div class="price">$119</div></div>
+          <ul class="features"><li>Stretch cómodo</li><li>Corte moderno</li><li>Tejido resistente</li></ul>
+          <!-- INSERTAR ENLACE AFILIADO ROPA 3 -->
+          <a class="buy-button" href="https://amzn.to/4nH6x0M" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/4nH6x0M">🛒 Ver Oferta en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 4 Camisetas técnicas -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Camiseta+T%C3%A9cnica" alt="Camiseta técnica"></div>
+        <div class="card-body">
+          <h2 class="product-title">Camiseta Técnica DryFit</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.3</span></div><div class="price">$29</div></div>
+          <ul class="features"><li>Secado rápido</li><li>Anti-olor</li><li>Costuras planas</li></ul>
+          <!-- INSERTAR ENLACE AFILIADO ROPA 4 -->
+          <a class="buy-button" href="https://amzn.to/4mtoTBn" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/4mtoTBn">🛒 Ver Oferta en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 5 Ropa deportiva -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Ropa+Deportiva" alt="Ropa deportiva"></div>
+        <div class="card-body">
+          <h2 class="product-title">Set Ropa Deportiva</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.5</span></div><div class="price">$69</div></div>
+          <ul class="features"><li>Tejido elástico</li><li>Transpirable</li><li>Con bolsillos</li></ul>
+          <!-- INSERTAR ENLACE AFILIADO ROPA 5 -->
+          <a class="buy-button" href="https://amzn.to/4nMvl7G" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/4nMvl7G">🛒 Ver Oferta en Amazon</a>
+        </div>
+      </article>
+
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>🔥 Los PRODUCTOS Más Vendidos de 2024 — Ordenadores</title>
+  <meta name="description" content="Guía 2024: Mejores laptops, monitores y accesorios. Comparativas, ofertas y enlaces directos a Amazon.">
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="../index.html">MiTiendaNicho</a>
+      <form class="search-form" role="search"><input type="search" placeholder="Buscar producto..." aria-label="Buscar"><button type="submit">🔍</button></form>
+      <nav class="main-nav">
+        <ul>
+          <li><a href="ordenadores.html" aria-current="page">Ordenadores</a></li>
+          <li><a href="ropa.html">Ropa</a></li>
+          <li><a href="sartenes.html">Sartenes</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>🔥 Los PRODUCTOS Más Vendidos de 2024 — Ordenadores</h1>
+      <p class="sub">Comparativa rápida, fichas técnicas y ofertas con enlace directo a Amazon.</p>
+      <div class="hero-cta"><a href="#products" class="btn">Ver Ofertas</a><a href="#newsletter" class="btn ghost">Suscríbete</a></div>
+    </div>
+  </section>
+
+  <main class="container">
+    <section id="products" class="grid">
+      <!-- 1 Laptops gaming -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Laptop+Gaming+ASUS+ROG" alt="Laptop Gaming ASUS ROG"></div>
+        <div class="card-body">
+          <h2 class="product-title">Laptop Gaming ASUS ROG</h2>
+          <div class="meta"><div class="rating">★★★★★ <span class="num">4.8</span></div><div class="price">$1,499</div></div>
+          <ul class="features"><li>NVIDIA RTX</li><li>240Hz</li><li>16GB RAM</li></ul>
+          <!-- ENLACE -->
+          <a class="buy-button" href="https://amzn.to/3VyHjpm" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/3VyHjpm">🛒 Comprar en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 2 Ordenadores oficina -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Ordenador+Oficina" alt="Ordenador oficina"></div>
+        <div class="card-body">
+          <h2 class="product-title">Ordenador Oficina - Compacto</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.5</span></div><div class="price">$699</div></div>
+          <ul class="features"><li>i5 / 8GB</li><li>SSD 512GB</li><li>Silencioso</li></ul>
+          <a class="buy-button" href="https://amzn.to/4nR1U4w" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/4nR1U4w">🛒 Comprar en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 3 Monitores 4K -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Monitor+4K" alt="Monitor 4K"></div>
+        <div class="card-body">
+          <h2 class="product-title">Monitor 4K 27"</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.6</span></div><div class="price">$399</div></div>
+          <ul class="features"><li>3840×2160</li><li>HDR</li><li>IPS</li></ul>
+          <a class="buy-button" href="https://amzn.to/3VzmoTg" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/3VzmoTg">🛒 Comprar en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 4 Teclados mecánicos -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Teclado+Mec%C3%A1nico" alt="Teclado mecánico"></div>
+        <div class="card-body">
+          <h2 class="product-title">Teclado Mecánico RGB</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.7</span></div><div class="price">$129</div></div>
+          <ul class="features"><li>Switches mecánicos</li><li>RGB</li><li>Anti-ghosting</li></ul>
+          <a class="buy-button" href="https://amzn.to/46xCq4Y" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/46xCq4Y">🛒 Comprar en Amazon</a>
+        </div>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>🔥 Los PRODUCTOS Más Vendidos de 2024 — Sartenes</title>
+  <meta name="description" content="Top sartenes, baterías y utensilios de cocina. Comparativas y las mejores ofertas en Amazon.">
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="../index.html">MiTiendaNicho</a>
+      <form class="search-form" role="search"><input type="search" placeholder="Buscar sartén..." aria-label="Buscar"><button type="submit">🔍</button></form>
+      <nav class="main-nav">
+        <ul>
+          <li><a href="ordenadores.html">Ordenadores</a></li>
+          <li><a href="ropa.html">Ropa</a></li>
+          <li><a href="sartenes.html" aria-current="page">Sartenes</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>🔥 Los PRODUCTOS Más Vendidos de 2024 — Sartenes</h1>
+      <p class="sub">Encuentra sartenes y baterías con la mejor relación calidad/precio.</p>
+      <div class="hero-cta"><a href="#products" class="btn">Ver Sartenes</a><a href="#newsletter" class="btn ghost">Recibir ofertas</a></div>
+    </div>
+  </section>
+
+  <main class="container">
+    <section id="products" class="grid">
+      <!-- 1 Sartenes cerámica -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Sarten+Cer%C3%A1mica" alt="Sartén cerámica"></div>
+        <div class="card-body">
+          <h2 class="product-title">Sartén Cerámica Anti-adherente 24cm</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.4</span></div><div class="price">$39</div></div>
+          <ul class="features"><li>Anti-adherente sin PFOA</li><li>Fácil de limpiar</li><li>Apta para inducción</li></ul>
+          <a class="buy-button" href="https://amzn.to/46CXvLp" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/46CXvLp">🛒 Ver Oferta en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 2 Juegos de ollas -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Juego+Ollas" alt="Juego de ollas"></div>
+        <div class="card-body">
+          <h2 class="product-title">Juego de Ollas 10 piezas Acero Inox</h2>
+          <div class="meta"><div class="rating">★★★★☆ <span class="num">4.6</span></div><div class="price">$149</div></div>
+          <ul class="features"><li>Acero 18/10</li><li>Tapa vidrio</li><li>Compatible inducción</li></ul>
+          <a class="buy-button" href="https://amzn.to/46zDHZh" target="_blank" rel="noopener noreferrer" data-affiliate="https://amzn.to/46zDHZh">🛒 Ver Oferta en Amazon</a>
+        </div>
+      </article>
+
+      <!-- 3 Hierro fundido -->
+      <article class="product-card">
+        <div class="card-media"><img src="https://via.placeholder.com/600x400?text=Sarten+Hierro+Fundido" alt="Sartén hierro fundido"></div>
+/* styles.css */
+:root{
+  --brand:#1e6fb8;
+  --accent:#ff7a18;
+  --muted:#6b7280;
+  --bg:#f7fbff;
+  --card:#fff;
+  --radius:12px;
+  --gap:1rem;
+  --max-width:1200px;
+  font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--bg);color:#0b1220}
+.container{max-width:var(--max-width);margin:0 auto;padding:1rem}
+.site-header{background:#fff;border-bottom:1px solid #e6eef9;position:sticky;top:0;z-index:60}
+.header-inner{display:flex;align-items:center;gap:.75rem;justify-content:space-between}
+.logo{font-weight:700;color:var(--brand);text-decoration:none}
+.search-form{display:flex;gap:.25rem;flex:1;margin:0 .75rem}
+.search-form input{flex:1;padding:.5rem;border-radius:10px;border:1px solid #e6eef9}
+.search-form button{background:var(--brand);color:#fff;border:0;padding:.45rem .6rem;border-radius:10px}
+.main-nav ul{list-style:none;display:flex;gap:1rem;padding:0;margin:0}
+.hero{padding:1.25rem 0;background:linear-gradient(180deg,#fff,#f3fbff)}
+.hero h1{margin:0;font-size:1.25rem}
+.hero .sub{color:var(--muted);margin:0}
+.hero-cta{margin-top:.5rem;display:flex;gap:.5rem;flex-wrap:wrap}
+.btn{background:var(--brand);color:#fff;padding:.55rem .8rem;border-radius:10px;text-decoration:none}
+.btn.ghost{background:#fff;border:1px solid #e6eef9;color:var(--brand)}
+.grid{display:grid;grid-template-columns:1fr;gap:1rem;padding:1rem 0}
+.product-card{background:var(--card);border-radius:var(--radius);overflow:hidden;box-shadow:0 8px 24px rgba(16,24,40,.06);display:flex;flex-direction:column}
+.card-media img{width:100%;height:auto;display:block}
+.card-body{padding:1rem}
+.product-title{margin:0;font-size:1.05rem}
+.meta{display:flex;justify-content:space-between;align-items:center;color:var(--muted)}
+.rating{color:#f5a623}
+.price{font-weight:800;color:#111}
+.features{padding-left:1rem;color:var(--muted)}
+.buy-button{display:inline-block;margin-top:.5rem;background:var(--accent);color:#fff;padding:.5rem .7rem;border-radius:8px;text-decoration:none}
+.newsletter{margin-top:1rem;padding:1rem;background:#fff;border-radius:12px}
+.site-footer{padding:1.25rem 0;background:#fff;border-top:1px solid #eef6ff;margin-top:1.5rem;text-align:center}
+.muted{color:var(--muted)}
+@media(min-width:700px){
+  .grid{grid-template-columns:repeat(2,1fr)}
+}
+@media(min-width:1000px){
+  .grid{grid-template-columns:repeat(3,1fr)}
+}
+@media(min-width:1300px){
+  .grid{grid-template-columns:repeat(4,1fr)}
+}
+
